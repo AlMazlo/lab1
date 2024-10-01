@@ -1,2 +1,2 @@
 # lab1
-# hello world
+# CSE29 Lab 1
